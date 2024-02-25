@@ -1,4 +1,6 @@
-# Gufo
+# Contato:
+* WhatsApp: +55 (85) 98402-3820.
+* E-mails: cvidalmo@gmail.com, cvidalmo@yahoo.com, cvidalmo@hotmail.com.
 
 # O que é o Gufo?
 É um aplicativo para celulares e dispositivos móveis, criado com o objetivo de auxiliar na proteção familiar, fornecendo diversas informações desses dispositivos para os chamados “Pais Corujas”. Esse aplicativo foi criado com o intuito dos pais protegerem seus filhos ou os conjugues se protegerem mutuamente.
